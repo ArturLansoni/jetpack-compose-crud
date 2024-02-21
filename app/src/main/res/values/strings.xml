@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ServiceList</string>
+    <string name="login_screen_title">Login</string>
+    <string name="login_screen_welcome">Welcome to ServiceList</string>
+    <string name="login_screen_email">Email</string>
+    <string name="login_screen_password">Password</string>
+    <string name="login_screen_password_toggle">Toggle Password Visibility</string>
+    <string name="login_screen_submit">Login</string>
+    <string name="login_screen_register">Register</string>
+    <string name="register_screen_title">Register</string>
+    <string name="register_screen_message">Create your user</string>
+    <string name="register_screen_email">Email</string>
+    <string name="register_screen_password">Password</string>
+    <string name="register_screen_password_toggle">Toggle Password Visibility</string>
+    <string name="register_screen_submit">Register</string>
+    <string name="register_screen_login">Back to login</string>
+    <string name="list_screen_title">Services</string>
+    <string name="list_screen_back">Back</string>
+    <string name="list_screen_new">New</string>
+    <string name="list_screen_search">Search</string>
+    <string name="form_screen_title">Form</string>
+    <string name="form_screen_back">Back</string>
+    <string name="form_screen_delete">Delete</string>
+    <string name="form_screen_name">Name</string>
+    <string name="form_screen_location">Location</string>
+    <string name="form_screen_category">Category</string>
+    <string name="form_screen_image">Image (URL)</string>
+    <string name="form_screen_rating">Rating</string>
+    <string name="form_screen_submit">Save</string>
+</resources>

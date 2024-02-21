@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ServiceList</string>
+    <string name="login_screen_title">Login</string>
+    <string name="login_screen_welcome">Bem-vindo ao ServiceList</string>
+    <string name="login_screen_email">Email</string>
+    <string name="login_screen_password">Senha</string>
+    <string name="login_screen_password_toggle">Alternar visibilidade da senha</string>
+    <string name="login_screen_submit">Login</string>
+    <string name="login_screen_register">Cadastrar</string>
+    <string name="register_screen_title">Cadastrar</string>
+    <string name="register_screen_message">Crie seu usuário</string>
+    <string name="register_screen_email">Email</string>
+    <string name="register_screen_password">Senha</string>
+    <string name="register_screen_password_toggle">Alternar visibilidade da senha</string>
+    <string name="register_screen_submit">Cadastrar</string>
+    <string name="register_screen_login">Voltar ao login</string>
+    <string name="list_screen_title">Serviços</string>
+    <string name="list_screen_back">Voltar</string>
+    <string name="list_screen_new">Novo</string>
+    <string name="list_screen_search">Busca</string>
+    <string name="form_screen_title">Formulário</string>
+    <string name="form_screen_back">Voltar</string>
+    <string name="form_screen_delete">Remover</string>
+    <string name="form_screen_name">Nome</string>
+    <string name="form_screen_location">Localicação</string>
+    <string name="form_screen_category">Categoria</string>
+    <string name="form_screen_image">Imagem (URL)</string>
+    <string name="form_screen_rating">Avaliação</string>
+    <string name="form_screen_submit">Salvar</string>
+</resources>
